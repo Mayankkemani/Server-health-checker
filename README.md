@@ -12,6 +12,19 @@ This script automates daily server health monitoring for Linux systems. It reduc
 4. **Critical Services:** Checks if Nginx/Apache is running. Essential for web servers.
 5. **Top Processes:** Lists top 5 memory-consuming processes for quick troubleshooting.
 
+<div align="center">
+
+# Linux DevOps Scripts 🔧
+
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+## 📊 Scripts
+1. `serverh.sh` - CLI health check
+
+
 
 
 
