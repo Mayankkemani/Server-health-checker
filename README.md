@@ -12,6 +12,9 @@ This script automates daily server health monitoring for Linux systems. It reduc
 4. **Critical Services:** Checks if Nginx/Apache is running. Essential for web servers.
 5. **Top Processes:** Lists top 5 memory-consuming processes for quick troubleshooting.
 
+
+
+
 **Key Features:**
 - **Color-Coded Output:** RED for Critical, YELLOW for Warning, GREEN for OK. Easy to read in terminal.
 - **Zero Dependencies:** Uses built-in Linux commands only. Works on any Ubuntu/CentOS server.
